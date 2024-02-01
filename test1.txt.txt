@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is pankaj. We now have vaccines to prevent more than 20 life-threatening diseases, helping people of all ages live longer, healthier lives. Immunization currently prevents 3.5-5 million deaths every year from diseases like diphtheria, tetanus, pertussis, influenza and measles.
 
 Immunization is a key component of primary health care and an indisputable human right. It’s also one of the best health investments money can buy. Vaccines are also critical to the prevention and control of infectious disease outbreaks. They underpin global health security and will be a vital tool in the battle against antimicrobial resistance
+=======
+This is pankaj. this is ok.
+>>>>>>> 2f16d444149107eba5d30cee86836e04f5a284b3
